@@ -69,6 +69,10 @@ W --> |suspend| X;
 W --> |reject| X;
 ```
 
+### Underwriting AI engine- Risk Assessment and Stress Testing System
+```mermaid
+
+```
 
 
 ## CRM AI Assistant
