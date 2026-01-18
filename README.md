@@ -62,6 +62,11 @@ O --> |output| U[Real Estate Valuation Report];
 S --> |parameter| V[User interaction];
 T --> |parameter| V[User interaction];
 U --> |parameter| V[User interaction];
+V --> W{decide?};
+
+W --> |approve| X(end);
+W --> |suspend| X;
+W --> |reject| X;
 ```
 
 
